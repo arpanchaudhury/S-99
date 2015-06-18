@@ -3,7 +3,7 @@ import org.scalacheck.Gen._
 import org.scalacheck.Properties
 import org.scalacheck.Prop.{forAll, BooleanOperators, throws}
 
-object P01UnitTest extends Properties("P-01") {
+object P01UnitTest extends Properties("P-02") {
 
    val p02 = new P02
 
